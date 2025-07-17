@@ -21,7 +21,7 @@
 
 <section id="contact">
   <h2>Contact Us</h2>
-  <p>📞 <strong>Call now:</strong> <a href="tel:+12125551234">(212) 555-1234</a></p>
+  <p>📞 <strong>Call now:</strong> <a href="tel:+13602335972">(360) 233-5972</a></p>
   <p>📍 Serving San Antonio and surrounding areas</p>
   <p>📧 Email: <a href="mailto:antoniosroofing@example.com">antoniosroofing@example.com</a></p>
 </section>
