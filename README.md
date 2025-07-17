@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Antonio's Contracting Company | Roofing in San Antonio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; }
-    header { background: #c0392b; color: white; padding: 20px; text-align: center; }
-    nav { background: #333; text-align: center; padding: 10px; }
-    nav a { color: white; margin: 0 15px; text-decoration: none; }
-    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
-    footer { background: #222; color: white; text-align: center; padding: 20px; }
-    .button { background: #c0392b; color: white; padding: 10px 20px; text-decoration: none; }
-  </style>
-</head>
-<body>
-
-<header>
-  <h1>Antonio's Contracting Company</h1>
-  <p>Reliable Roofing in San Antonio, Texas</p>
-</header>
-
-<nav>
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#gallery">Gallery</a>
-  <a href="#contact">Contact</a>
-</nav>
 
 <section id="about">
   <h2>About Us</h2>
