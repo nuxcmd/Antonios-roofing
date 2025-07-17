@@ -19,12 +19,17 @@ _Sleek. Fast. All in one place._
 
 ---
 
-### 🛒 Purchase Your Gear  
-[🛍️ Shop Collection](https://resselzclub.fakecart.com/checkout)
+### 🛒 Featured Item – Buy Now
+
+**Men's Supreme Box Logo Hooded Sweatshirt** – the iconic black Supreme hoodie, available now for **$223**:  
+👉 [Purchase Here (GOAT)](https://goat.com)  
+
+**Air Jordan 'Jordan 1 Chicago Black' Pullover Hoodie** – sleek black Jordan hoodie for **$83.46**:  
+👉 [Purchase Here (KicksCrew)](https://kickscrew.com)
 
 ---
 
-> ⚠️ _This is a demo layout using placeholder links — customize with your real info when ready._
+> ⚠️ _These links go to partner platforms. Prices and availability are current at the time of posting._
 
 ---
 
