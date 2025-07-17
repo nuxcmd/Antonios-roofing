@@ -7,7 +7,7 @@ _Sleek. Fast. All in one place._
 
 ### 🔗 Contact & Platforms
 
-- 📸 [Instagram](https://instagram.com/resselzclub)  
+- 📸 [Instagram: @OfficialT3Developer](https://instagram.com/OfficialT3Developer)  
 - 📞 Phone: [+1 (234) 567-8900](tel:+12345678900)  
 - 💸 [CashApp](https://cash.app/$resselzclub)  
 - 💰 [PayPal](https://paypal.me/resselzclub)
@@ -19,17 +19,17 @@ _Sleek. Fast. All in one place._
 
 ---
 
-### 🛒 Featured Item – Buy Now
+### 🛒 Featured Items – Buy Now
 
-**Men's Supreme Box Logo Hooded Sweatshirt** – the iconic black Supreme hoodie, available now for **$223**:  
+**🧥 Supreme Box Logo Hoodie** – the iconic black Supreme hoodie:  
 👉 [Purchase Here (GOAT)](https://goat.com)  
 
-**Air Jordan 'Jordan 1 Chicago Black' Pullover Hoodie** – sleek black Jordan hoodie for **$83.46**:  
-👉 [Purchase Here (KicksCrew)](https://kickscrew.com)
+**🔥 Jordan 1 Chicago Black Hoodie** – sleek & bold look:  
+👉 [Purchase Here (KicksCrew)](https://account.kickscrew.com/products/nike-jordan-pullover-hoodie-fd0569-010?variant=42325651914947)
 
 ---
 
-> ⚠️ _These links go to partner platforms. Prices and availability are current at the time of posting._
+> ⚠️ _These are live listings on third-party stores. Replace with your own drops when ready._
 
 ---
 
