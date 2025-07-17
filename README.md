@@ -1,101 +1,72 @@
-<h1 align="center" style="color:#d4af37; font-size: 3rem;">🏗️ Elite Builders</h1>
+<h1 align="center">🌿 Sammy's Garden Touch</h1>
+<p align="center"><em>Elevating outdoor living with expert garden design, care, and sustainability.</em></p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1570129477492-45c003edd2be" width="100%" alt="Luxury Real Estate Banner"/>
+  <a href="mailto:sammy@gardentouch.com">
+    <img src="https://img.shields.io/badge/Email-Sammy-green?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.gardentouch.com">
+    <img src="https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
-<h2 align="center" style="color:#bfa133;">💎 Innovative Architecture & Luxury Construction</h2>
+---
+
+## 🌾 Featured Work
+
+<img src="https://via.placeholder.com/300x200?text=Garden+Design" alt="Garden Design Example" align="left" width="300" style="margin-right:1rem; margin-bottom:1rem;" />
+<img src="https://via.placeholder.com/300x200?text=Lawn+&+Patio" alt="Lawn and Patio" width="300" style="margin-bottom:1rem;" />
+
+Examples inspired by Instagram-worthy gardens :contentReference[oaicite:2]{index=2}
 
 ---
 
-## 🏛️ About Elite Builders
+## 🛠️ Services & Skills
 
-Elite Builders crafts intelligent, luxurious environments for discerning clients. Our philosophy combines **elevated design**, **advanced technology**, and **sustainability**, delivering homes and properties that are timeless and futuristic.
-
-- 🧠 **AI-powered Design**
-- 🏠 **Voice-Controlled Smart Homes**
-- 🌍 **Eco-Luxury Development**
-- 🏢 **Enterprise-Grade Architecture**
-
-📍 **San Antonio, TX**  
-📞 **(123) 555-0123**  
-📧 [contact@elitebuilders.com](mailto:contact@elitebuilders.com)
+- **🌼 Custom Garden Design** – Tailored layouts with plant palettes suited to your environment
+- **🌿 Lawn & Hardscape Care** – Seamless upkeep of lawns, patios, and outdoor living spaces
+- **🥕 Edible & Themed Gardens** – Vegetable patches, herb beds, pollinator havens
+- **♻️ Eco-Friendly Landscaping** – Sustainable compost, smart irrigation, native flora
+- **🔧 Seasonal Prep & Clean-Up** – Leaf clearance, pruning, spring/fall refresh
+- **📸 Project Portfolios** – ‘Before & After’ showcases and time-lapse reveals
 
 ---
 
-## 🎯 Services
+## 🗣️ What Clients Say
 
-| 💼 Service                  | ✨ Description |
-|----------------------------|-------------------------------|
-| 🏠 **Smart Estate Homes**   | IoT, voice control, and solar-powered integration |
-| 🏢 **Executive Workspaces** | Biometric security, EV stations, modular zones |
-| 🔧 **AI Renovations**       | Energy analysis, predictive 3D remodeling |
-| ☀️ **Net-Zero Architecture** | Solar roofing, climate-responsive materials |
+> *"From seed to sanctuary—Sammy crafted a veggie corner that's both beautiful and functional."*  
+> — Emma R.
 
----
-
-## 🌆 Showcase Projects
-
-### 🏡 **Hilltop Villas**
-> A gated collection of smart villas featuring voice-activated interiors, AI climate zones, and panoramic living rooms with full glass façades.
-
-### 🏙️ **Skyline Towers**
-> Biometric entry towers with EV concierge garages, rooftop greenhouses, and energy-balanced smart floors.
-
-### 🧬 **GreenPoint HQ**
-> Modular office suites designed for hybrid work, with environment-responsive lighting and wellness zones.
+> *"Sammy’s attention to soil health and sustainable design really shows. Garden thrives without overwatering."*  
+> — Carlos M.
 
 ---
 
-## 👤 About the Architect
+## 🌳 Why Choose Sammy
 
+- Certified horticulturist with 10+ years in design and maintenance  
+- Detailed project portfolios ready to share via Instagram or digital catalog  
+- Transparent quotes, tailored timelines, reliable service  
+- Emphasis on sustainable choices and pollinator-friendly installations
+
+---
+
+## 📬 Get In Touch
+
+| Contact | Details |
+|---------|---------|
+| 📧 Email | [sammy@gardentouch.com](mailto:sammy@gardentouch.com) |
+| 🌐 Website | [gardentouch.com](https://www.gardentouch.com) |
+| 📱 Phone | (210) 555‑1234 |
+
+<br>
 <p align="center">
-  <img src="https://via.placeholder.com/120" alt="Profile Photo" style="border-radius: 10px; border: 2px solid #d4af37;" />
+  <a href="mailto:sammy@gardentouch.com">
+    <img src="https://img.shields.io/badge/📩%20Book%20A%20Consultation-Click%20Here-green?style=for-the-badge" />
+  </a>
 </p>
 
-**Name:** [Your Name]  
-**Role:** Founder & Creative Director  
-**Experience:** 15+ years in smart architectural design  
-**Philosophy:** _“Build environments that feel intuitive, elegant, and everlasting.”_
-
 ---
 
-## 📬 Contact
-
-- 📞 **(123) 555-0123**  
-- 📧 [contact@elitebuilders.com](mailto:contact@elitebuilders.com)  
-- 🌍 **San Antonio, TX**  
-
----
-
-## 🥇 Testimonials
-
-> “Elite Builders delivered not just a home, but a smart living experience worthy of a magazine cover.”  
-> — *The Andersons*
-
-> “Everything from the biometric access to the automated skylights felt futuristic and classy.”  
-> — *Synthex Corp.*
-
----
-
-## 🔧 Technology & Tools
-
-- 🧱 HTML5, CSS3, JavaScript
-- 🪄 GitHub Pages Integration
-- ☁️ Cloud Sync for Clients
-- 🔒 Biometric & IoT Infrastructure
-- 💼 AI Planning & Virtual Blueprints
-
----
-
-## 🚀 Our Motto
-
-<h3 align="center" style="color:#d4af37;"><em>Build with elegance. Live with intelligence.</em></h3>
-
----
-
-## 📌 How to Use
-
-1. Create a new file in your GitHub repo: `README.md`  
-2. Paste this content  
-3. Commit and watch your profile shine with modern luxury ✨
+<p align="center"><sub>📸 Photography & inspiration via top-tier garden portfolios and Instagram professionals</sub></p>
+<p align="center"><sub>Designed & refined with ❤️ by T3 Web Solutions</sub></p>
