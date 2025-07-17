@@ -17,7 +17,6 @@
 <img src="https://via.placeholder.com/300x200?text=Garden+Design" alt="Garden Design Example" align="left" width="300" style="margin-right:1rem; margin-bottom:1rem;" />
 <img src="https://via.placeholder.com/300x200?text=Lawn+&+Patio" alt="Lawn and Patio" width="300" style="margin-bottom:1rem;" />
 
-Examples inspired by Instagram-worthy gardens :contentReference[oaicite:2]{index=2}
 
 ---
 
